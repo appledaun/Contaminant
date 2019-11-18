@@ -4,17 +4,12 @@ import javax.swing.JFrame;
 
 public class Competence {
 	protected MainCompetence mainCompetence_;
+	protected Competence1 Competence1_;
+	protected Competence1 Competence2_;
+	protected Competence1 Competence3_;
+	protected Competence1 Competence4_;
 	
-	private class ButtonListener implements ActionListener {
-		@Override
-		public void actionPerformed(ActionEvent e) {
-			// TODO Auto-generated method stub
-			if(true) {
-				
-			}
-			
-		}
-		
-	}
+	
+	//ตฅภฬลอ
 
 }
